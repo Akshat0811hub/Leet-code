@@ -1,0 +1,5 @@
+A = [1, 2, 6, 9];
+target = 8;
+size = 4;
+
+write the code to find which element in the array can bring out the target after the sum

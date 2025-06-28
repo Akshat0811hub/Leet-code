@@ -1,0 +1,7 @@
+     *
+    ***
+   *****
+  *******
+ *********
+
+ Write a code to print this pattern

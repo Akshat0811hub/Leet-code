@@ -1,0 +1,4 @@
+A=[2,3,5,1,9]
+N=10
+
+find the longest subarray to find the sum of them is 10

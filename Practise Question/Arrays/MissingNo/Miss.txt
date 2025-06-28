@@ -1,0 +1,3 @@
+A=[1,3,4,5]
+
+Find the missing no in the array

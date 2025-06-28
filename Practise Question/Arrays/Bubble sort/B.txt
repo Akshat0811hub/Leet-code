@@ -1,0 +1,16 @@
+Before Sorting....
+24
+18
+36
+19
+43
+5
+After Sorting....
+5
+18
+19
+24
+36
+43
+
+Write a code for sorting

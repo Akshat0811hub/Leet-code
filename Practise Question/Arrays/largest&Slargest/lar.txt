@@ -1,0 +1,9 @@
+18
+36
+19
+43
+5
+Largest no. is 43
+Slargest no. is 36
+
+Write a code to find the largest and second largest no.

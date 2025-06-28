@@ -1,0 +1,7 @@
+1
+01
+101
+0101
+10101
+
+Write a code to draw this pattern

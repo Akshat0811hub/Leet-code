@@ -1,0 +1,4 @@
+A=[24,18,36,19,43,5]
+x=19
+
+Write the code to find the x in this give array

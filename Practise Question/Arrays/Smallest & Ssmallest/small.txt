@@ -1,0 +1,9 @@
+18
+36
+19
+43
+5
+Smallest no. is 5
+Ssmallest no. is 18
+
+Write a code to find the smallest and the second smallest
